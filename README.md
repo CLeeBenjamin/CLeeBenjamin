@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋🏾, I'm Caston Boyd</h1>
-<h3 align="center">software engineer. instructor. creator. brooklyn new york</h3>
+<h1 align="center">hi 👋🏾, i'm caston boyd</h1>
+<h3 align="center">software engineer. instructor. creator.</h3>
+
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLeeBenjamin)](https://github.com/CLeeBenjamin/github-readme-stats)
 
